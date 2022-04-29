@@ -1,8 +1,8 @@
 ## :ocean: Estudos em Tailwind CSS
 
-Olá, bem vindo (a) à este repositório.
+Olá, bem vindo(a) a este repositório.
 
-De modo sucinto, aqui estão contidos cursos e anotações pertinentes aos meus estudos no framework Tailwind CSS, assim como os projetos pertinentes ao momento de aprendizado.
+De modo geral, aqui estão contidos cursos e anotações pertinentes aos meus estudos no framework Tailwind CSS, assim como os projetos pertinentes ao momento de aprendizado.
 
 ## Referências de estudos
 
