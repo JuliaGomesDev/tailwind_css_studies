@@ -1,0 +1,24 @@
+{
+  "name": "tailwind_css_studies",
+  "version": "1.0.0",
+  "description": "Olá, bem vindo(a) a este repositório.",
+  "main": "index.js",
+  "scripts": {
+    "tailwind": "tailwid -i ./src/styles.css -o ./public/styles.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuliaGomesDev/tailwind_css_studies.git"
+  },
+  "keywords": [],
+  "author": "Julia Gomes <gomesjulia621@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuliaGomesDev/tailwind_css_studies/issues"
+  },
+  "homepage": "https://github.com/JuliaGomesDev/tailwind_css_studies#readme",
+  "dependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
