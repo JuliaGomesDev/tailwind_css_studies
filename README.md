@@ -12,7 +12,7 @@ De modo geral, aqui estão contidos cursos e anotações pertinentes aos meus es
 
 - [Curso gratuito TailwindCSS 2](https://www.youtube.com/playlist?list=PLcoYAcR89n-r1m-tMfV4qndrRWpT_rb9u)
 
--[Como começar no Tailwind CSS 3.0](https://www.youtube.com/watch?v=mK_19iqznc8&t=1s&ab_channel=EmersonBroga)
+- [Como começar no Tailwind CSS 3.0](https://www.youtube.com/watch?v=mK_19iqznc8&t=1s&ab_channel=EmersonBroga)
 
 ## Autor
 
